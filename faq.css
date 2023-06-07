@@ -50,3 +50,6 @@ h2 {
 .container .holder.active .hidden-text {
     height: 100px;
 }
+.container .holder.active .text .hide {
+    transform: rotate(45deg);
+}
